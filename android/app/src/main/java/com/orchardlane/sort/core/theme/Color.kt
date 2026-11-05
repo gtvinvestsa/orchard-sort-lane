@@ -1,0 +1,31 @@
+package com.orchardlane.sort.core.theme
+
+import androidx.compose.ui.graphics.Color
+
+val OrchardBackground = Color(0xFFF4F9EC)
+val OrchardBackgroundMid = Color(0xFFE4F0D4)
+val OrchardBackgroundLow = Color(0xFFD9E9C4)
+val OrchardSurface = Color(0xFFFFFFFF)
+val OrchardSurfaceAlt = Color(0xFFF2EAD8)
+val OrchardBorder = Color(0xFFD8C9A8)
+val AppleRed = Color(0xFFD94F3D)
+val AppleRedLight = Color(0xFFE2614E)
+val AppleRedDark = Color(0xFFB33E2F)
+val SkyBlue = Color(0xFF5B9BD5)
+val SkyBlueDark = Color(0xFF3F7FB8)
+val FreshGreen = Color(0xFFA9D18E)
+val FreshGreenLight = Color(0xFFBCDDA3)
+val SageDeep = Color(0xFF7FA46B)
+val Terracotta = Color(0xFFD97B4D)
+val TextPrimary = Color(0xFF2B3A1E)
+val TextSecondary = Color(0xFF5A6B46)
+val TextMuted = Color(0xFF8A9A74)
+val DuskOlive = Color(0xFF2B3A1E)
+val DuskOliveDeep = Color(0xFF1F2C14)
+val TopLight = Color(0x38FFFFFF)
+
+val SplashOverlay = listOf(Color(0xCC2B3A1E), Color(0xE62B3A1E), Color(0xF21F2C14))
+val MenuOverlay = listOf(Color(0xF2F4F9EC), Color(0xE6E4F0D4), Color(0xF2D9E9C4))
+val GameOverlay = listOf(Color(0xE6EAF4DC), Color(0xF2F4F9EC), Color(0xF7DCEBC6))
+val ResultOverlay = listOf(Color(0xF2EAF4DC), Color(0xF7A9D18E), Color(0xFA7FA46B))
+val PanelOverlay = listOf(Color(0xF2EDF5E0), Color(0xF7F4F9EC), Color(0xF2E4F0D4))

@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Orchard Sort Lane</string>
+
+    <string name="splash_title">ORCHARD SORT LANE</string>
+    <string name="splash_subtitle">SWIPE THE FRUIT HOME</string>
+    <string name="loading_orchard">LOADING THE ORCHARD</string>
+
+    <string name="menu_title">ORCHARD ROWS</string>
+    <string name="menu_hint">SWIPE FRUIT INTO THE RIGHT CRATE</string>
+    <string name="play">PLAY</string>
+    <string name="play_again">PLAY AGAIN</string>
+    <string name="menu">MENU</string>
+    <string name="show_rule">SHOW RULE</string>
+    <string name="pause">PAUSE</string>
+    <string name="resume">RESUME</string>
+    <string name="fruit_faces">FRUIT FACES</string>
+    <string name="how_to_play">HOW TO PLAY</string>
+    <string name="skip">SKIP</string>
+    <string name="reset_progress">RESET PROGRESS</string>
+    <string name="reset_done">PROGRESS CLEARED</string>
+    <string name="reset">RESET</string>
+    <string name="cancel">CANCEL</string>
+    <string name="hold">HOLD</string>
+    <string name="hold_hint">HOLD THE CIRCLE TO OPEN GROWN-UP SETTINGS</string>
+    <string name="grown_ups">GROWN-UPS</string>
+    <string name="sound">SOUND</string>
+    <string name="haptics">HAPTICS</string>
+    <string name="swipe_distance">SWIPE DISTANCE</string>
+    <string name="swipe_short">SHORT</string>
+    <string name="swipe_normal">NORMAL</string>
+    <string name="swipe_long">LONG</string>
+
+    <string name="crates_full">CRATES FULL</string>
+    <string name="next_lane_ready">NEXT LANE IS READY</string>
+    <string name="new_fruit_faces">NEW FRUIT FACES</string>
+
+    <string name="stat_lanes">LANES</string>
+    <string name="stat_faces">FACES</string>
+    <string name="stat_sorted">SORTED</string>
+    <string name="stat_tries">TRIES</string>
+    <string name="stat_lane">LANE</string>
+    <string name="stat_lanes_done">LANES DONE</string>
+    <string name="empty_value">—</string>
+
+    <string name="orchard_lane">ORCHARD %1$d · LANE %2$d</string>
+    <string name="lane_progress">%1$d/%2$d</string>
+    <string name="sorted_counter">%1$d/%2$d</string>
+    <string name="tile_progress">%1$d/%2$d</string>
+    <string name="crate_state">HOLDS %1$d</string>
+    <string name="state_open">OPEN</string>
+    <string name="state_locked">LOCKED</string>
+    <string name="state_full">FULL</string>
+
+    <string name="orchard_sunny_row">SUNNY ROW</string>
+    <string name="orchard_morning_hill">MORNING HILL</string>
+    <string name="orchard_red_gate">RED GATE</string>
+    <string name="orchard_creek_side">CREEK SIDE</string>
+    <string name="orchard_old_fence">OLD FENCE</string>
+    <string name="orchard_harvest_top">HARVEST TOP</string>
+
+    <string name="crate_red">RED</string>
+    <string name="crate_green">GREEN</string>
+    <string name="crate_yellow">YELLOW</string>
+    <string name="crate_round">ROUND</string>
+    <string name="crate_long">LONG</string>
+    <string name="crate_striped">STRIPED</string>
+    <string name="crate_plain">PLAIN</string>
+    <string name="crate_other">OTHER</string>
+    <string name="crate_red_round">RED ROUND</string>
+    <string name="crate_striped_round">STRIPED ROUND</string>
+    <string name="crate_green_striped">GREEN STRIPED</string>
+    <string name="crate_yellow_long">YELLOW LONG</string>
+    <string name="crate_red_striped">RED STRIPED</string>
+    <string name="crate_green_round">GREEN ROUND</string>
+
+    <string name="rule_caption">%1$s FRUIT ON TOP</string>
+    <string name="rule_card_title">RULE CARD</string>
+    <string name="rule_card_text">PUT EVERY %1$s FRUIT IN THE TOP CRATE</string>
+
+    <string name="pause_title">PAUSED</string>
+    <string name="pause_hint">THE FRUIT WAITS AS LONG AS YOU LIKE</string>
+    <string name="reset_question">RESET ALL PROGRESS</string>
+    <string name="reset_hint">LANES, FACES AND ORCHARDS START OVER</string>
+
+    <string name="faces_title">FRUIT FACES</string>
+    <string name="faces_hint">PICK A FACE FOR YOUR FRUIT</string>
+    <string name="face_unlock_at">OPENS AT LANE %1$d</string>
+    <string name="face_blinky">BLINKY</string>
+    <string name="face_sleepy">SLEEPY</string>
+    <string name="face_cheeky">CHEEKY</string>
+    <string name="face_starry">STARRY</string>
+
+    <string name="tutorial_title">FIRST HARVEST</string>
+    <string name="tutorial_coach">SWIPE THE RED FRUIT TO THE TOP CRATE</string>
+    <string name="tutorial_done">GREAT SORTING</string>
+    <string name="tutorial_step">%1$d/%2$d</string>
+
+    <string name="cd_logo">Orchard Sort Lane emblem</string>
+    <string name="cd_home_mark">Orchard home mark</string>
+    <string name="cd_grown_ups">Open grown-up settings</string>
+    <string name="cd_back">Back to the orchard menu</string>
+    <string name="cd_fruit">Fruit waiting on the lane</string>
+</resources>
